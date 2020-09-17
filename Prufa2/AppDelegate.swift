@@ -4,6 +4,7 @@
 //
 //  Created by Garðar Benediktsson on 9/16/20.
 //  Copyright © 2020 Gardar Benediktsson. All rights reserved.
+//  Testið er að virka
 //
 
 import UIKit
