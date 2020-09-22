@@ -4,7 +4,8 @@
 //
 //  Created by Garðar Benediktsson on 9/16/20.
 //  Copyright © 2020 Gardar Benediktsson. All rights reserved.
-//  Ég að prófa 21 sept   
+//  Ég að prófa 21 sept
+// Bingó
 
 import UIKit
 
